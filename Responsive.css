@@ -1,0 +1,15 @@
+/* Samsung S8 Plus */
+
+@media (max-width: 1199.98px) {
+  .text {
+    font-size: 15px;
+    padding: 15px;
+  }
+
+  .jumbotron {
+  }
+
+  .print {
+    object-fit: contain;
+  }
+}

@@ -1,0 +1,27 @@
+.text {
+  color: whitesmoke;
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.jumbotron {
+  height: 1000px;
+  background-image: url(https://wallup.net/wp-content/uploads/2018/03/17/540089-programmers-AutoHotkey-code-programming-laptop-ThinkPad.jpg);
+  background-size: cover;
+  object-fit: contain;
+}
+
+.jumbotron hr {
+  width: 1000px;
+}
+
+.navbar-toggler-icon {
+  background-image: var(--bs-navbar-toggler-icon-bg);
+}
+
+.gambar img {
+  height: 550px;
+  border-radius: 35px;
+}
